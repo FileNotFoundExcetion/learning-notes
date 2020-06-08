@@ -15,3 +15,9 @@
 **Java基础**
 
 [1.1代理](blog/Java基础/代理.md)
+
+
+
+**JVM**
+
+[1.JVM的内存分配](blog/JVM/JVM内存分配.md)
