@@ -93,3 +93,7 @@
 [1.MySQL规范](https://www.yuque.com/yangwangxingkong-7ugey/sv4y3z/kkm8iv)
 
 [2.MySQL优化](https://www.yuque.com/yangwangxingkong-7ugey/sv4y3z/zie0iu)
+
+[3.MysQL主从复制](http://www.macrozheng.com/#/reference/mysql_master_slave)
+
+[主从复制2](https://www.yuque.com/yiyidaoshu/zlyeu1/fzcbr8)
