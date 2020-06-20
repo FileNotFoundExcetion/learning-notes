@@ -40,6 +40,8 @@
 
 [1.Synchronized](blog/并发/Synchronized.md)
 
+[2.volatile](blog/并发/volatile.md)
+
 **微服务**
 
 [1.服务发现](blog/微服务/服务发现.md)
