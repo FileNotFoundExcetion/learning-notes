@@ -47,3 +47,9 @@
 [1.服务发现](blog/微服务/服务发现.md)
 
 [2.Eureka](blog/微服务/Eureka.md)
+
+
+
+**消息队列**
+
+[1.RabbitMq](blog/RabbitMq.md)
