@@ -64,7 +64,9 @@
 
 [2.Redis内存回收机制](https://juejin.im/post/5d107ad851882576df7fba9e)
 
+[3.Redis笔记](https://www.yuque.com/crow/pra1nq/olryp6)
 
+[4.Redis Cluster原理](https://www.yuque.com/yangwangxingkong-7ugey/sv4y3z/id5e7h)
 
 **分库分表**
 
@@ -77,3 +79,17 @@
 [1.https原理](blog/https原理.md)
 
 [2.TCP与UDP](blog/TCP与UDP.md)
+
+
+
+[MyBatis一级与二级缓存](https://www.yuque.com/paradise/java/zsxuyo#a9564471)
+
+[hibernate一级与二级缓存](https://www.yuque.com/paradise/java/zsxuyo#a9564471)
+
+
+
+**MySQL**
+
+[1.MySQL规范](https://www.yuque.com/yangwangxingkong-7ugey/sv4y3z/kkm8iv)
+
+[2.MySQL优化](https://www.yuque.com/yangwangxingkong-7ugey/sv4y3z/zie0iu)
