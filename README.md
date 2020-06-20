@@ -61,3 +61,5 @@
 **缓存**
 
 [1.Redis集群方式（主从复制，哨兵模式和Redis-Cluster集群）](blog/Redis集群.md)
+
+[2.Redis内存回收机制](https://juejin.im/post/5d107ad851882576df7fba9e)
