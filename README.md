@@ -55,3 +55,9 @@
 **消息队列**
 
 [1.RabbitMq](blog/RabbitMq.md)
+
+
+
+**缓存**
+
+1.Redis集群方式（主从复制，哨兵模式和Redis-Cluster集群）
