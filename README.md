@@ -68,6 +68,8 @@
 
 [4.Redis Cluster原理](https://www.yuque.com/yangwangxingkong-7ugey/sv4y3z/id5e7h)
 
+[5.Redis锁](https://www.yuque.com/yangwangxingkong-7ugey/rigvqb/he9k4p)
+
 **分库分表**
 
 [分库分表](https://www.cnblogs.com/butterfly100/p/9034281.html)
