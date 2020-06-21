@@ -16,7 +16,7 @@
 
 [1.1代理](blog/Java基础/代理.md)
 
-
+[2.HashMap](blog/HashMap.md)
 
 **JVM**
 
