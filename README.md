@@ -90,7 +90,9 @@
 
 [hibernate一级与二级缓存](https://www.yuque.com/paradise/java/zsxuyo#a9564471)
 
+**Spring**
 
+[1.循环依赖](https://www.yuque.com/books/share/464efc50-69fe-4c97-ac20-c6a661cccb49/dpzl6u#mvdU8)
 
 **MySQL**
 

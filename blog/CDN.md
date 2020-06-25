@@ -31,3 +31,7 @@ CDN有自己专门的DNS服务器
 - A记录：一个域名对应一个IP地址
 - CNAME：一个域名对应另外一个域名
 - NS：将子域名指定其他DNS服务器解析
+
+
+
+参考链接：https://www.yuque.com/books/share/464efc50-69fe-4c97-ac20-c6a661cccb49/ovr06k
