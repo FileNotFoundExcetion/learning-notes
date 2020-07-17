@@ -104,7 +104,7 @@
 
 [主从复制2](https://www.yuque.com/yiyidaoshu/zlyeu1/fzcbr8)
 
-
+[4.MySQL索引和查询](blog/MySQL索引和查询.md)
 
 **其他**
 
