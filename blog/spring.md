@@ -69,3 +69,15 @@ this指的是代理对象
 
 
 继承也是可以完成代理的一种方式，重写父类方法（会产生类爆炸）
+
+
+
+
+
+BeandeifiniationHolder保存了beanname 和beandifinitation
+
+
+
+beanpostprocessor
+
+![image-20200720102741313](spring.assets/image-20200720102741313.png)
