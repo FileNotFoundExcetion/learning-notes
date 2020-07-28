@@ -81,3 +81,25 @@ BeandeifiniationHolder保存了beanname 和beandifinitation
 beanpostprocessor
 
 ![image-20200720102741313](spring.assets/image-20200720102741313.png)
+
+
+
+
+
+@Import有3种形式，一个普通的类，
+
+二实现ImportSelector (返回一个字符串数组，数组里存放是类的名字，动态的将类交给spring管理)
+
+三实现importbeanDefinitionRegistar(注册beandefinition)
+
+也可以结合beanpostprocessor实现返回代理对象
+
+@Enable也是结合@Import实现的
+
+
+
+一个类加了@Configuration采用了cglib代理，如果没有加则不会用代理，将原生对象返回
+
+
+
+![image-20200728172203582](spring.assets/image-20200728172203582.png)
