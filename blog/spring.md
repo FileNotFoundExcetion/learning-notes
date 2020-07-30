@@ -103,3 +103,16 @@ beanpostprocessor
 
 
 ![image-20200728172203582](spring.assets/image-20200728172203582.png)
+
+
+
+
+
+createbean ->docreatebean
+
+IOC 微观方面仅仅是一个线程安全的并发容器
+
+宏观方面指整个spring环境，spring的bean等等一切
+
+
+
