@@ -43,3 +43,5 @@ InstantiationAwareBeanPostProcessor接口继承BeanPostProcessor接口，它内�
 ### 1、postProcessMergedBeanDefinition
 
 缓存bean的注入信息的后置处理器，仅仅是缓存或者干脆叫做查找更加合适，没有完成注入，注入是另外一个后置处理器的作用
+
+![image-20200815233804436](Spring的后置处理器.assets/image-20200815233804436.png)
