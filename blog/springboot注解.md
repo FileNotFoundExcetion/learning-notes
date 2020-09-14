@@ -23,3 +23,16 @@
 ![image-20200820170248026](springboot注解.assets/image-20200820170248026.png)
 
 ![image-20200820170826559](springboot注解.assets/image-20200820170826559.png)
+
+
+
+
+
+jar文件是不允许嵌套的（没法加载）
+
+main class位于顶层目录下
+
+jar文件又嵌套jar称之为Fatjar
+
+
+
