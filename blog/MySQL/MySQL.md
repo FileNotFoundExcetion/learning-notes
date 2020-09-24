@@ -14,3 +14,13 @@
 可重复读（repeatable read）:MySQL默认的隔离级别，会产生幻读，所谓幻读其实就是会新增数据
 
 串行化（serializable）:锁表，粒度大
+
+3.MySQL执行计划
+       select_type 
+       表示查询中每个select子句的类型（简单 OR复杂）
+       SIMPLE：查询中不包含子查询或者UNION
+       查询中若包含任何复杂的子部分，最外层查询则被标记为：PRIMARY
+       在SELECT或WHERE列表中包含了子查询，该子查询被标记为：SUBQUERY
+       在FROM列表中包含的子查询被标记为：DERIVED（衍生）
+       若第二个SELECT出现在UNION之后，则被标记为UNION；若UNION包含在  FROM子句的子查询中，外层SELECT将被标记为：DERIVED
+       从UNION表获取结果的SELECT被标记为：UNION RESULT
