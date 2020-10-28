@@ -1,9 +1,5 @@
 # SpringBoot自动配置和启动流程源码分析
 
-主讲老师：源码学院fox老师
-
-课程内容：
-
 1. 自动配置源码分析，@SpringBootApplication详解
 2. Spring是如何注册AutoConfiguration类的
 3. Spring Boot启动流程源码分析
